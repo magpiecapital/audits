@@ -15,8 +15,8 @@ for publication, the report (PDF) and a summary entry are committed here.
 | Firm | Scope | Status | Report |
 | --- | --- | --- | --- |
 | **Sec3** | Magpie on-chain lending programs (`magpie-v4`) | Repository access granted; review underway (scope being finalized) | Pending |
-| **Hashlock** | Magpie on-chain lending programs (`magpie-v4`) | Invited (read-only access); engagement in progress | Pending |
-| **QuillAudits** | Magpie on-chain lending programs (`magpie-v4`) | Invited (read-only access); engagement in progress | Pending |
+| **Hashlock** | Magpie on-chain lending programs (`magpie-v4`) | Repository access accepted; review underway | Pending |
+| **QuillAudits** | Magpie on-chain lending programs (`magpie-v4`) | Repository access accepted; review underway | Pending |
 | **OtterSec** | Magpie on-chain lending programs (`magpie-v4`) | Invited to audit; awaiting response | Pending |
 | **Neodyme** | Magpie on-chain lending programs (`magpie-v4`) | Invited to audit; awaiting response | Pending |
 
