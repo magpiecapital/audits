@@ -18,6 +18,7 @@ for publication, the report (PDF) and a summary entry are committed here.
 | **Hashlock** | Magpie on-chain lending programs (`magpie-v4`) | Invited (read-only access); engagement in progress | Pending |
 | **QuillAudits** | Magpie on-chain lending programs (`magpie-v4`) | Invited (read-only access); engagement in progress | Pending |
 | **OtterSec** | Magpie on-chain lending programs (`magpie-v4`) | Invited to audit; awaiting response | Pending |
+| **Neodyme** | Magpie on-chain lending programs (`magpie-v4`) | Invited to audit; awaiting response | Pending |
 
 **"Report: Pending"** means no report exists yet — it does not mean a report is
 being withheld. When a report is published, its row will link to the PDF in this
