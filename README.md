@@ -16,7 +16,7 @@ for publication, the report (PDF) and a summary entry are committed here.
 | --- | --- | --- | --- |
 | **Sec3** | Magpie on-chain lending programs (`magpie-v4`) | Repository access granted; review underway (scope being finalized) | Pending |
 | **Hashlock** | Full protocol (V4 flagship + V1/V3 + supporting, ~7,700 LOC Rust/Anchor) | Accepted collaborator; formal proposal received — engagement being finalized | Pending |
-| **QuillAudits** | Magpie on-chain lending programs (`magpie-v4`) | Repository access accepted; review underway | Pending |
+| **QuillAudits** | Full-stack security — on-chain lending programs (`magpie-v4`) + supporting protocol surfaces | Repository access accepted; **full-stack security proposal received** — engagement being finalized, review underway | Pending |
 | **OtterSec** | Magpie on-chain lending programs (`magpie-v4`) | Invited to audit; awaiting response | Pending |
 | **Neodyme** | Magpie on-chain lending programs (`magpie-v4`) | Invited to audit; awaiting response | Pending |
 
